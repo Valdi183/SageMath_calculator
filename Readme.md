@@ -1,3 +1,5 @@
+### Cálculos_con_Sage
+
 Este repositorio contiene 2 archivos con una serie de cálculos con SageMath. Un sistema de álgebra computacional que integra varios programas y bibliotecas matemáticas bajo una interfaz común de Python.
 Además están en formato "Jupyter notebook", con esto, puedo crear diferentes bloques de código y ejecutarlo por separado, de forma que es mucho más sencillo detectar errores en el código lo que me permite
 estructurar muy bien el código.
